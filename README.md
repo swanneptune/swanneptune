@@ -1,5 +1,10 @@
-- 👋 Hi, I’m Swann Yee Oo from Myanmar,Currently live in Tokyo,Japan.
-- 👀 I’m interested in Ideation,Project Management.
+# Welcome! 👋 Hi, I’m Swann Yee Oo from Myanmar,currently live in Tokyo,Japan.
+[![Swann's GitHub stats](https://github-readme-stats.vercel.app/api?username=neptune)](https://github.com/swanneptune/github-readme-stats)
+- 👀 I’m interested in 
+    - Blockchain](#-blockchain-), 
+    - [💲 Cryptocurrency](#-cryptocurrency-)
+    - [⚡ Database](#-database-)
+    - [🎮 Games]
 - 🌱 I’m currently learning Ruby On Rails,Docker and Selenium.
 - 💞️ I’m looking to collaborate on backend projects.
 - 📫 How to reach me ... email to shortywaiyan@gmail.com
