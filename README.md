@@ -1,5 +1,4 @@
 # Welcome! 👋 Hi, I’m Swann from Myanmar,currently live in Tokyo,Japan.
-[![Swann's GitHub stats](https://github-readme-stats.vercel.app/api?username=swanneptune)](https://github.com/swanneptune/github-readme-stats)
 - 👀 I’m interested in 
     - [Blockchain]
     - [💲 Cryptocurrency](#-cryptocurrency-)
